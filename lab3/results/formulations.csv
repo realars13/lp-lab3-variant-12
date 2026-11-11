@@ -1,0 +1,4 @@
+﻿formulation,variables,constraints,lp_bound,milp_utility,integrality_gap_percent,seconds_median,nodes,mip_gap,solve_phase_seconds_median,budget,lp_spending,lp_sum_cameras
+compact,35,21,87.5,80.0,9.375,0.03715139999985695,0,0.0,0.04,37,37.0,3.0
+aggregate,139,36,94.0,80.0,17.5,0.10534040000038658,0,0.0,0.09,37,27.92142857142857,2.426190476190476
+large_M,139,36,94.0,80.0,17.5,0.10490829999980633,0,0.0,0.1,37,0.184,0.02

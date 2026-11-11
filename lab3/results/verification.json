@@ -1,0 +1,89 @@
+{
+  "base": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -94.0,
+    "budget_used": 47.0,
+    "budget_slack": 0.0,
+    "big_m_violation": 0.0,
+    "integer_checked": true,
+    "objective_error": 0.0
+  },
+  "base_lp": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -94.0,
+    "budget_used": 47.0,
+    "budget_slack": 0.0,
+    "big_m_violation": 0.0,
+    "integer_checked": false,
+    "objective_error": 0.0
+  },
+  "base_greedy": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -88.0,
+    "budget_used": 38.0,
+    "budget_slack": 9.0,
+    "big_m_violation": 0.0,
+    "integer_checked": true
+  },
+  "deficit": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -80.0,
+    "budget_used": 33.0,
+    "budget_slack": 4.0,
+    "big_m_violation": 0.0,
+    "integer_checked": true,
+    "objective_error": 0.0
+  },
+  "deficit_lp": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -87.5,
+    "budget_used": 37.0,
+    "budget_slack": 0.0,
+    "big_m_violation": 0.0,
+    "integer_checked": false,
+    "objective_error": 0.0
+  },
+  "deficit_greedy": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -74.0,
+    "budget_used": 25.0,
+    "budget_slack": 12.0,
+    "big_m_violation": 0.0,
+    "integer_checked": true
+  },
+  "stress": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -74.0,
+    "budget_used": 25.0,
+    "budget_slack": 3.0,
+    "big_m_violation": 0.0,
+    "integer_checked": true,
+    "objective_error": 0.0
+  },
+  "stress_lp": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -77.375,
+    "budget_used": 28.0,
+    "budget_slack": 0.0,
+    "big_m_violation": 0.0,
+    "integer_checked": false,
+    "objective_error": 0.0
+  },
+  "stress_greedy": {
+    "ok": true,
+    "max_violation": 0.0,
+    "objective": -74.0,
+    "budget_used": 25.0,
+    "budget_slack": 3.0,
+    "big_m_violation": 0.0,
+    "integer_checked": true
+  }
+}
